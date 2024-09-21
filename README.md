@@ -13,3 +13,4 @@ Languages I've worked with:
 
 https://isthatadeveloper.github.io/MyPortfolio/
 
+Weird (Update)
